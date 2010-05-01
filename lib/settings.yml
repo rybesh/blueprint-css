@@ -1,0 +1,14 @@
+# refer to http://www.yaml.org/spec/1.1/ for clarification on YAML collections
+editorsnotes:
+  path: /Users/ryanshaw/Code/editorsnotes/editorsnotes/static/style
+  custom_css:
+    screen.css:
+      - src/screen-custom.css
+  plugins:
+    - fancy-type
+  semantic_classes:
+    "header": ".span-24 last prepend-top"
+    "#notes": ".span-18"
+    "#metadata": ".box"
+    ".edit-history": ".quiet"
+    ".reference": ".prepend-1"

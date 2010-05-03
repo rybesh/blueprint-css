@@ -8,7 +8,5 @@ editorsnotes:
     - fancy-type
   semantic_classes:
     "header": ".span-24 last prepend-top"
-    "#notes": ".span-18"
     "#metadata": ".box"
     ".edit-history": ".quiet"
-    ".reference": ".prepend-1"

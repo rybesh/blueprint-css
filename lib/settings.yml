@@ -6,7 +6,18 @@ editorsnotes:
       - src/screen-custom.css
   plugins:
     - fancy-type
+    - buttons
   semantic_classes:
-    "header": ".span-24 last prepend-top"
-    "#metadata": ".box"
+    "header": ".span-24 .last .append-bottom"
+    "#topnav": ".span-24 .last .append-bottom"
+    "#logo": ".span-13"
+    "#logo h1": ".quiet"
+    "#login": ".prepend-8 .span-7 last"
+    "#login p": ".prepend-1"
+    "#searchform": ".span-11 last"
+    "#searchinput": ".span-9"
+    "#searchbutton": ".span-2 .last"
+    "#searchresults": ".span-24 .last"
+    "#searchresults #message": ".span-24 .last"
+    "#searchresults #results": ".span-24 .last"
     ".edit-history": ".quiet"

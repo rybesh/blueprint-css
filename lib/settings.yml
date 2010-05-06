@@ -9,6 +9,7 @@ editorsnotes:
     - buttons
   semantic_classes:
     "header": ".span-24 .last .append-bottom"
+    "h4": ".caps"
     "#topnav": ".span-24 .last .append-bottom"
     "#logo": ".span-13"
     "#logo h1": ".quiet"

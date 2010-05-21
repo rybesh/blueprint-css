@@ -9,7 +9,6 @@ editorsnotes:
     - buttons
   semantic_classes:
     "header": ".span-24 .last .append-bottom"
-    "h4": ".caps"
     "#topnav": ".span-24 .last .append-bottom"
     "#logo": ".span-13"
     "#logo h1": ".quiet"
@@ -28,3 +27,4 @@ editorsnotes:
     ".term-list": ".span-20 .last"
     ".note-link": ".prepend-1 .span-19"
     ".note-updated": ".span-4 .last .quiet"
+    ".citation": ".append-bottom"
